@@ -5,7 +5,7 @@ package com.taobao.rhino;
  * @date 2018/11/21
  */
 public class IdbConstant {
-    public static String IDB_HOST = "idb4.alibaba-inc.com";
+    public static String IDB_HOST = "xx.com";
     /**
      * 获取DB列表
      */
